@@ -9,21 +9,6 @@ Projeto desenvolvido como projeto acadêmico do curso de **Análise e Desenvolvi
 </p>
 
 ---
-
-# Demonstração
-
-> Adicione aqui algumas imagens do sistema.
-
-Exemplo:
-
-```
-/images/dashboard.png
-/images/login.png
-/images/pedidos.png
-```
-
----
-
 # Funcionalidades
 
 ## Login
